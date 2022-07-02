@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://the-root-user.github.io/blogx2/sitemap.xml
